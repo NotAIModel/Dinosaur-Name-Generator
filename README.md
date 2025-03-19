@@ -23,7 +23,7 @@ The dataset consists of real dinosaur names stored in `dinos.txt`. The model tra
 ## 🚀 How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Dinosaur-Name-Generator.git](https://github.com/NotAIModel/Dinosaur-Name-Generator
+   git clone https://github.com/NotAIModel/Dinosaur-Name-Generator
    ```
 2. **Install dependencies** (only NumPy required):
    ```bash
